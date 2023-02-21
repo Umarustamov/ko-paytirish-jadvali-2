@@ -1,0 +1,19 @@
+p{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+strong{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.true{
+    color: green;
+}
+.false{
+    color: red;
+}
+.bir{
+    color: blue;
+}
+.ikki{
+    color: orange;
+}
